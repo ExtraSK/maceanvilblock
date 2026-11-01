@@ -1,0 +1,6 @@
+name: MaceBlock
+version: 1.0.0
+main: com.extrask.maceblock.MaceAnvilBlockerPlugin
+api-version: '1.21'
+description: Prevents combining two maces in an anvil.
+author: ExtraSK
